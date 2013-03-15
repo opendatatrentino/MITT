@@ -1,0 +1,3 @@
+ agency_id,agency_name,agency_url,agency_timezone
+1,Trentino Trasporti Esercizio  S.P.A.,http://www.ttesercizio.it,Europe/Rome
+2,Trenitalia,http://www.trenitalia.com,Europe/Rome

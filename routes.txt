@@ -1,0 +1,262 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+13,1,514,S.Martino Di Castrozza-Fiera Di P.-Borgo,3
+14,1,508,Calaita-Gobbera-Totoga-Imer-Fiera Di Primiero,3
+15,1,543,Agordo-Mis-Fiera Di Primiero-Siror,3
+16,1,752,Servizi Trenitalia - Andata,3
+61,1,014,Direttrice Andata Corse Operai Cavalese,3
+62,1,116,Bosco - S.Agnese - Civezzano,3
+63,1,203,Vezzano-Ranzo-Margone,3
+64,1,205,Trento-Vezzano-Sarche-Dro-Arco-Riva,3
+65,1,206,M. Terlago-Terlago-Sopramonte-Cadine-Trento,3
+66,1,230,Trento-Monte Terlago-Ranzo-Margone,3
+67,1,302,Trento -Ravina -Mattarello -Aldeno -Garniga Terme,3
+68,1,303,Luserna-Lavarone-Carbonare-V.Vattaro-Trento,3
+69,1,311,Rovereto-Villa-Nomi-Aldeno,3
+70,1,861,Linea 1: Riva -Varone -Arco -S.Giorgio-Brione-Riva,3
+71,1,862,Linea 2: Riva-Brione-S.Giorgio-Arco-Varone-Riva,3
+73,1,864,Linea 4: Riva-Grez-Viale Martiri-Riva,3
+143,1,106,Mezzocorona Ferrovia - S.Michele - Faedo Pineta,3
+144,1,107,Roverè Della Luna - Mezzolombardo,3
+145,1,221,Riva Del Garda-Campi,3
+146,1,615,Toss - Vigo Di Ton - Mezzolombardo,3
+147,1,616,Cles - Tuenno - Lago Di Tovel,3
+148,1,618,Cles-Denno-Moncovo-Ceramica-Mezzolombardo-Trento,3
+150,1,621,Trento-Nave S.F.-Nav,3
+151,1,623,Portolo - Nanno - Tuenno - Pavillo - Cles,3
+152,1,624,Mechel - Cles,3
+154,1,626,Vervò - Tres - Taio - Cles,3
+156,1,629,Cles -Dermulo -Dambel -Seio- Fondo -Passo Mendola,3
+157,1,630,P.Mendola -Fondo -Don -Dambel -Dermulo -Cles,3
+161,1,634,Cles - Livo - Lanza Di Rumo,3
+17,1,051,Operai Luxottica,3
+18,1,101,Cavalese-Predazzo-Moena-Canazei-Penia,3
+19,1,102,Cavalese - Capriana - Cembra - Trento,3
+20,1,103,Cavalese - Sover - Civezzano - Trento,3
+21,1,105,Palu  Di Giovo-Ville- Valternigo-Verla,3
+22,1,108,P.So Oclini-P.So Lavazè-Varena-Daiano-Cavalese,3
+23,1,110,Alpe Pampeago-Cavalese,3
+24,1,111,Cavalese - Carano - Villaggio Veronza,3
+25,1,112,Varena - Daiano - Cavalese,3
+26,1,113,Cavalese - Daiano - Carano - Tesero - Cavalese,3
+27,1,114,Sicina-Palu -Casatta Di Valfloriana,3
+28,1,115,Civezzano - Pergine,3
+29,1,119,Molina-Masi-Cavalese,3
+30,1,121,Sover-Montesover,3
+33,1,133,Valcava-Piazzo-Cembr,3
+34,1,202,Viote-Vason-Vaneze-Candriai-Sardagna-Trento,3
+35,1,402,Montesover - Baselga Di Pinè -Nogarè -Trento,3
+36,1,403,Trento - Pergine - Baselga Di Pinè - Montesover,3
+37,1,405,Borgo V.- Strigno - Castello Tesino,3
+39,1,407,Borgo Valsugana - Telve - Torcegno,3
+40,1,408,Borgo Valsugana - Olle,3
+42,1,413,Valcava-Brusago,3
+43,1,415,Lochere - S.Giuliana - Barco -Levico Terme,3
+44,1,416,Levico Terme - Compet - Vetriolo Terme,3
+45,1,417,Palù -S.Orsola -Viarago -Canezza -Pergine,3
+46,1,418,Pergine-Kamauz-Frassilongo-S.Felice F.-Hacleri,3
+47,1,422,Roncogno-Costasavina-Pergine,3
+106,2,751,Ferrovia Fs Verona - Brennero,2
+119,1,312,Rovereto-Parrocchia Di V.-Pian Delle Fugazze,3
+120,1,314,Rovereto-Riva-Obra Di Vallarsa-Ometto,3
+121,1,315,Folgaria-Serrada-Terragnolo-Rovereto,3
+122,1,316,Rovereto-Trambileno-Vanza-Pozzacchio,3
+123,1,318,Nomesino-Manzano-Valle S.Felice,3
+124,1,319,Cornè-Crosano Bivio-Besagno,3
+125,1,334,Rovereto-Ala-Sabbionara-Avio-Masi-Rovereto,3
+126,1,335,Rovereto-Ala-Masi D Avio-Avio-Rovereto,3
+127,1,337,Avio-Ala-Cornè -Chizzola-Mori-Rovereto,3
+74,1,041,Operai Rit. Valsugana,3
+75,1,042,Operai Rit. Pinè (Via Nogarè),3
+76,1,043,Operai And. Pinè (Via Pergine),3
+38,1,406,Samone -Strigno -Carzano -Borgo Valsugana,3
+91,1,216,Tione-Bolbeno-Ragoli-Montagne,3
+107,1,AG 861,Linea 1: Riva -Varone -Arco -S.Tomaso -Riva,3
+108,1,AG 862,Linea 2: Riva -S.Tomaso -Arco-Varone -Riva,3
+109,1,AG 863,Linea 3: Riva -S.Tomaso -Arco -S.Giorgio -Riva,3
+110,1,AG 864,Linea 4: Riva-S.Giorgio-Arco-S.Tomaso-Riva,3
+111,1,AG 865,Linea 5: Circolare Di Arco,3
+112,1,AG 866,Linea 6 : Circolare Di Riva Del Garda,3
+128,1,308,Rovereto-Mori-Chizzo,3
+129,1,321,Trento-Calliano-Folgaria-Lavarone,3
+130,1,328,Luserna-Monterovere-Caldonazzo-Pergine-Trento,3
+131,1,329,V.Vattaro-Bosentino-Calceranica-Pergine,3
+139,1,304,Avio - Masi D Avio - Sabbionara - Ala - Rovereto,3
+140,1,061,Operai Rit. Molveno,3
+239,1,Rv B,B   Baldresca - Rosmini - S.Giovanni Bosco,3
+141,1,510,Milano - S.Martino Di Castrozza,3
+142,1,AG 867,Linea 7 : Nago - Torbole - Riva Del Garda,3
+58,1,442,Trento-Masetti-Borgo V.-Castello T.,3
+77,1,201,Tione-Sarche-Vezzano-Trento,3
+78,1,204,Trento-Vigo Cavedine-Riva Del Garda,3
+79,1,301,Rovereto-Calliano-Besenello-Trento,3
+80,1,207,Ponte Arche-Campo Lomaso-Fiavè-Cavrasto-Bivedo,3
+81,1,208,Ponte Arche-S.Lorenzo In B.-Molveno,3
+82,1,209,Ponte Arche-Lundo,3
+83,1,211,Riva Del G.-Tenno-Fiave -Ponte Arche,3
+84,1,212,Pieve Di Bono-Praso-Daone,3
+85,1,213,Por-Castel Condino-Pieve Di Bono,3
+86,1,214,Pieve Di Bono-Storo-Bezzecca-Pregasina-Riva,3
+87,1,215,Vestone-Baitoni-Storo-Pieve Di Bono-Tione,3
+88,1,218,Vigo Cavedine-Masi,3
+89,1,225,Condino - Brione,3
+90,1,331,Riva-Arco-Bolognano-Mori-Rovereto-Trento,3
+57,1,441,Castello T.-Borgo Diretta:Via Gallerie-Trento,3
+102,1,850,Piano Area Rovereto (Ritorno),3
+103,1,867,Linea 7: Nago-Torbole-Riva,3
+104,1,868,Direttrice Andata Per Corse Scolastiche Alto Garda,3
+132,1,Rv 2,P-02 S.Giorgio - Corso Rosmini - Costa,3
+133,1,Rv 3,I-03  Pedersano-Nogaredo-Rosmini-Lenzima,3
+134,1,Rv 4,4 Ritorno,3
+135,1,Rv 5,P-05 Mori-Villa Lagarina-Pomarolo-Nomi,3
+136,1,Rv 6,I-06 Nomi-Pomarolo/Volano-Rosmini-Mori,3
+137,1,Rv 7,P-07 Campana Dei Caduti - Rosmini - Noriglio,3
+138,1,Rv A,P-A P.Guella-Ospedale-Rosmini-Brione,3
+248,1,024,Dro-Vezzano-Terlago-,3
+48,1,423,Pergine Vals.-Ischia-Tenna-Levico Terme,3
+49,1,424,Pergine-Buss,3
+50,1,425,Pergine Vals.-Masetti-Assizzi-Vignola-Falesina,3
+51,1,426,Falesina-Vignola-Assizzi-Pergine Valsugana,3
+54,1,431,S.Mauro - Baselga Di Pinè,3
+55,1,433,Roncegno Terme - Giro Masi,3
+56,1,440,Trento-Povo-Pergine,3
+60,1,420,Nogarè-Madrano-Pergine Vals.,3
+92,1,010,Direttrice Ritorno Per Corse Operai Trento Ritorno,3
+41,1,409,Borgo Valsugana -Roncegno Terme -Ronchi,3
+59,1,410,Borgo Valsugana - Tezze - Primolano,3
+93,1,011,Direttrice Andata Corse Operai Seeber,3
+94,1,012,Direttrice Andata Corse Operai Valfloriana,3
+95,1,013,Direttrice Andata Corse Operai Val Di Cembra,3
+96,1,021,Operai And. Val Di Cavedine,3
+97,1,022,Operai Rit. Ranzo-Ciago,3
+98,1,031,Operai Rit. Garniga,3
+99,1,044,Operai Rit. Silvelox,3
+100,1,611,Molveno-Andalo-Fai D/Paganella-Mezzocorona-Trento,3
+101,1,620,Trento-Mezzolombardo-Campodenno-Denno-Cles,3
+105,1,210,Bivedo-Cavrasto-S.Croce-Ponte Arche,3
+113,1,032,Operai Rit. Besenello,3
+114,1,305,Saccone-Brentonico-Mori-Rovereto,3
+115,1,306,Lavarone-Folgaria-Calliano-Rovereto,3
+116,1,307,Rovereto-Mori-Chizzola-Cornè-Ala-Avio,3
+117,1,309,Rovereto-Serravalle-Chizzola-Cornè,3
+118,1,310,Rovereto-Mori-S.Felice-Ronzo Chienis,3
+216,1,Tn 6/,T-06 Piazza Dante - Via Asiago - San Rocco,3
+174,1,Tn 1,T-01 Roncafort - P.Dante - Osp.S.Chiara- Roncafort,3
+175,1,Tn 10,T-10 P.Dante - Martignano - Cognola / Montevaccino,3
+176,1,Tn 11,T-11 Piazza Dante / Roncafort - Gardolo - Spini,3
+177,1,Tn 12,T-12 Romagnano - Ravina - Via Ghiaie - P.Dante,3
+178,1,Tn 13,T-13 Povo - S.Rocco - Rosmini - Piazza Dante,3
+179,1,Tn 14,T-14 P.Dante - Via Sanseverino - Belvedere Ravina,3
+180,1,Tn 17,T-17 Lavis - S.Lazzaro -  Piazza Dante,3
+181,1,Tn 3,T-03 Cortesano - Gardolo - P.Dante - Villazzano 3,3
+182,1,Tn 4,T-04 Piazza Dante - Via Degasperi - Madonna Bianca,3
+183,1,Tn 5,T-05 Piazza Dante - P.Fiera - Povo - Oltrecastello,3
+184,1,Tn 6,T-06 Sopramonte - P.Dante - Villazzano - Grotta,3
+185,1,Tn 7,T-07 Canova - Melta - Piazza Dante - Gocciadoro,3
+186,1,Tn 8,T-08 Centochiavi - Piazza Dante - Mattarello,3
+187,1,Tn 9,T-09 P.Dante - S.Donà - Cognola - Villamontagna,3
+188,1,Tn A,T- A P.Dante - Osp.S.Chiara - Clarina - P.Dante,3
+189,1,Tn B,T- B Piazza Dante - Laste - Piazza Dante,3
+190,1,Tn NP,T-Np Navetta Parcheggi: Zuffo - M.Te Baldo - Zuffo,3
+215,1,Tn Fu,Funivia Sardagna,7
+155,1,627,Sfruz-Smarano-Coredo-Dermulo-Cles,3
+159,1,632,Fondo - Castelfondo - Revò - Cles,3
+160,1,633,Cles - Mostizzolo - Cis,3
+203,1,091,Operai Rit. Seeber,3
+204,1,092,Operai And. Valfloriana,3
+205,1,093,Operai And. Val Di Cembra,3
+206,1,094,Operai And. Cavalese,3
+207,1,811,Servizi Svolti Per Linea 11,3
+238,1,TxBus,Linea Taxibus,3
+249,1,126,Cavalese-Daiano-Varena-Stava-Pampeago,3
+250,1,326,Rovereto-Calliano-Se,3
+251,1,341,Trento-Calliano-Nomi,3
+254,1,Rv 1,I-01 Corso Bettini-Ospedale-Lizzana-Marco,3
+255,1,Rv N1,N1 - Corso Bettini-Lizzana-Marco-Mori,3
+256,1,Rv N2,N2 - Costa-Corso Rosmini,3
+257,1,Rv N6,N6 - Nomi-Besenello-V.Cesari,3
+258,1,Rv N3,N3 - Castellano-Via Cesari,3
+259,1,Rv N5,N5 - C.So Bettini-Isera-Nomi,3
+261,1,753,Bassano-Tn Servizio Sostitutivi Trenitalia,3
+208,1,023,Operai And. Terlago-Ciago,3
+209,1,235,Trento - Lago Cavedine - Riva Del Garda,3
+210,1,324,Guardia - Folgaria,3
+211,1,325,Rovereto - Zoreri - Soldati,3
+212,1,327,Passo S.Valentino - Rovereto,3
+213,1,332,Bolognano-Arco-Riva-Mori-Rovereto,3
+214,1,419,Maso Tingherla - Kamauz - Pergine,3
+149,1,619,Tn-M.Do-Sporminore-Campodenno-Denno-Cles,3
+52,1,428,Bedollo-Svaldi,3
+228,1,336,Ronchi-Ala,3
+199,1,Tn 2,T-02 Vela - P.Dante - Osp.S.Chiara - P.Dante -Vela,3
+200,1,Tn GS,T-Gs Gite Scolastiche Trento,3
+32,1,132,Valcava-Scancio-Faver-Verla-Palù-S.Michele,3
+162,1,635,Bresimo-Baselga-Livo,3
+163,1,640,Malè - Rabbi Bagni - Somrabbi,3
+164,1,641,Malè - Bolentina,3
+165,1,642,Madonna Di Campiglio - Folgarida - Malè,3
+166,1,643,Marilleva 1400-Malè,3
+167,1,644,Pellizzano - Menas,3
+168,1,645,Malè -Mezzana -Fucine -Cogolo -Peio,3
+169,1,646,Malè -Mezzana -Fucine -Vermiglio -Passo Tonale,3
+170,1,647,Male -Cavizzana,3
+171,1,700,Ferrovia Trento - Male  - Marilleva 900,2
+191,1,636,Madonna Di Campiglio -Malè -Passo Mendola,3
+153,1,625,Mollaro - Priò - Vervò - Tres,3
+236,1,865,Linea 5: Busatte - Torbole,3
+172,1,062,Operai Rit. Cles (Via Moncovo),3
+173,1,063,Operai And. Cles (Via Crescino),3
+219,1,Tn C,T- C Servizio R.S.A. Ex Ospedalino,3
+193,1,Rv CC,Corna Calda  -   Lizzanella  -  Corso Rosmini,3
+194,1,Rv N-2,2   Costa - Corso Rosmini,3
+195,1,Rv N-5,5   Corso Bettini - Nogaredo - Nomi,3
+196,1,Rv N-6,6   Corso Bettini - Marco - Mori,3
+197,1,Rv N-7,7   P.Le Orsi - Volano - Ped. - Castellano,3
+198,1,Rv VV,Corso Rosmini - Via Vicenza - Corso Rosmini,3
+217,1,236,Sopramonte-Baselga-Vigolo B.-Terlago-M.Terlago,3
+218,1,404,Faida - Baselga Di Pinè,3
+229,1,245,M.Campiglio-Tione-Storo-Baitoni-Vestone,3
+230,1,342,Raossi - S.Anna - Ometto,3
+231,1,344,Rovereto - Albaredo - Raossi,3
+232,1,853,Noriglio-Isera-Castellano,3
+233,1,854,Mori-Isera-Marco,3
+234,1,855,Marco-Nomi,3
+235,1,856,Volano-Mori,3
+72,1,863,Linea 3 Integrata:Bolognano-Arco-Riva-Torbole-Nago,3
+237,1,857,Castellano-Villa-Marco,3
+240,1,Tn 15,T-15 Piazza Dante - Interporto - Spini Di Gardolo,3
+247,1,Tn 16,T-16 Centochiavi-Martignano-Cognola-Povo,3
+252,1,544,Caoria-Totoga-Agordo,3
+253,1,617,Trento-S.Michele-Dx,3
+241,1,Rv VIC,Corso Rosmini - Via Vicenza - Corso Rosmini,3
+242,1,064,Operai Cles-Crescino-S.Michele-Lavis-Trento,3
+243,1,124,Masi Di Imer - Predazzo - Penia,3
+244,1,134,S.Michele-Segonzano-Tesero,3
+245,1,234,Riva Del G.-Storo- Pieve Di Bono,3
+246,1,330,Centa-Levico-Pergine Valsugana,3
+260,1,Tn D,Servizio R.S.A: Porta Nuova - S.Bartolomeo,3
+1,1,104,Cavalese-Ora-Egna-Salorno-S.Michele A/A-Trento,3
+2,1,122,Fiera Di Primiero-S.Martino C.-P.Rolle-Predazzo,3
+3,1,401,Trento-Pergine V.-Levico T.-Borgo V.-Castello T.,3
+4,1,421,Pergine Valsugana - Susà,3
+5,1,501,Feltre-Fiera Di Primiero-S.Martino Di Castrozza,3
+6,1,503,Sagron-Mis-P.So Cereda-Val Canali-Fiera Di P.-Imer,3
+7,1,504,Ronco Chiesa - Ronco Fosse - Canal S.Bovo,3
+8,1,505,Caoria-Totoga-Imer-Fiera Di Primiero,3
+9,1,506,Fiera Di Primiero-Imer-Canal S.Bovo-Caoria,3
+10,1,507,Caoria-Canal S.Bovo-Feltre,3
+158,1,631,Fondo - Tret,3
+192,1,Rv GS,Gite Scolastiche Rovereto,3
+202,1,090,Operai And. Trento Città,3
+31,1,123,Falcade- Passo S.Pellegrino-Moena,3
+220,1,461,Linea 1 Nogarè - Madrano - Pergine Valsugana,3
+221,1,462,Linea 2 Pergine-Zivignago-Canezza-Viarago-Serso,3
+222,1,463,Linea 3 Zava-Assizzi-Masetti-Pergine Valsugana,3
+223,1,464,Linea 4  Ischia - Pergine Valsugana,3
+224,1,465,Linea 5 S.Caterina-Canale-S.Vito-Susà-Pergine,3
+225,1,466,Linea 6 Roncogno-Costasavina-Pergine Valsugana,3
+226,1,467,Linea 7 Cirè - Pergine - S.Cristoforo - Valcanover,3
+227,1,999,Linea Per Vendita Tariffaria,3
+53,1,429,Regnana-Centrale,3
+11,1,511,Siror - Fiera Di Primiero - Imer - Masi Imer,3
+12,1,512,Feltre-Arten-Borgo Valsugana,3
+201,1,637,Tregiovo-Revò,3
