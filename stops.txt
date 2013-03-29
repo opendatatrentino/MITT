@@ -2724,7 +2724,7 @@ stop_id,stop_name,stop_lat,stop_lon
 43922,F.Lli Fontana  Ferrovieri, 46.077340, 11.117220
 43923,F.Lli Fontana  Gen. Cantore., 46.076900, 11.118590
 43924,F.Lli Perini  3 Novembre., 46.060950, 11.124900
-43925,Fermi  La Clarina, 46.048740, 11.129030
+43925,Fermi  La Clarina, 46.048990, 11.129320
 43926,Fogazzaro  "Piscina"., 46.055990, 11.129080
 43927,Fogazzaro  "Piscina", 46.056360, 11.130880
 43928,Gandhi  "Parco Anna Frank"., 46.051330, 11.124260
@@ -4096,7 +4096,7 @@ stop_id,stop_name,stop_lat,stop_lon
 45322,Romagnano (Sp 90 Km 20), 46.002030, 11.104920
 45323,Levico Terme (Ris. Scarano'), 46.016170, 11.314350
 45324,Povo  Pantè., 46.063980, 11.151070
-45325,Povo  "Irst" Capolinea, 46.068380, 11.150590
+45325,Povo  "Irst" Capolinea, 46.068540, 11.150660
 45326,Calliano Sp 49 "Cimitero", 45.936620, 11.098110
 45328,Ora - Auer (Stazione Fs), 46.360960, 11.297540
 45329,Lago Di Terlago (H. Lillà), 46.097400, 11.058230
@@ -4169,7 +4169,7 @@ stop_id,stop_name,stop_lat,stop_lon
 45407,Palu' Del F. (Loc. Canopi), 46.127350, 11.351830
 45408,Calceranica C.So Alpini Gmp, 46.001490, 11.245580
 45410,Levico Sp11 Al Km 1, 46.016970, 11.300840
-45412,Povo  Alla Cascata, 46.067980, 11.150580
+45412,Povo  Alla Cascata, 46.068110, 11.150590
 45413,Madonna Di C. (Loc.Paluac), 46.205350, 10.813250
 45416,Levico T. Fraz. Campiello, 46.018790, 11.353060
 45417,Grumes Maso Todescat, 46.221430, 11.267090
@@ -4560,3 +4560,5 @@ stop_id,stop_name,stop_lat,stop_lon
 45930,Borgo V. Per Telve/V.Prati, 46.058750, 11.469240
 45943,Fai Paganella-Via Battisti, 46.175400, 11.068620
 45946,Valle S.Felice (Cimitero)., 45.867960, 10.939710
+45947,Manzano (Bivio)., 45.864530, 10.950110
+45948,Manzano., 45.866720, 10.953600

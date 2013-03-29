@@ -10,7 +10,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 65,1,206,M. Terlago-Terlago-Sopramonte-Cadine-Trento,3
 66,1,230,Trento-Monte Terlago-Ranzo-Margone,3
 67,1,302,Trento -Ravina -Mattarello -Aldeno -Garniga Terme,3
-68,1,303,Luserna-Lavarone-Carbonare-V.Vattaro-Trento,3
+68,1,303,Trento-V.Vattaro-Carbonare-Lavarone-Luserna,3
 69,1,311,Rovereto-Villa-Nomi-Aldeno,3
 70,1,861,Linea 1: Riva -Varone -Arco -S.Giorgio-Brione-Riva,3
 71,1,862,Linea 2: Riva-Brione-S.Giorgio-Arco-Varone-Riva,3
@@ -29,7 +29,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 157,1,630,P.Mendola -Fondo -Don -Dambel -Dermulo -Cles,3
 161,1,634,Cles - Livo - Lanza Di Rumo,3
 17,1,051,Operai Luxottica,3
-18,1,101,Cavalese-Predazzo-Moena-Canazei-Penia,3
+18,1,101,Penia-Canazei-Moena-Predazzo-Cavalese,3
 19,1,102,Cavalese - Capriana - Cembra - Trento,3
 20,1,103,Cavalese - Sover - Civezzano - Trento,3
 21,1,105,Palu  Di Giovo-Ville- Valternigo-Verla,3
@@ -64,7 +64,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 124,1,319,Cornè-Crosano Bivio-Besagno,3
 125,1,334,Rovereto-Ala-Sabbionara-Avio-Masi-Rovereto,3
 126,1,335,Rovereto-Ala-Masi D Avio-Avio-Rovereto,3
-127,1,337,Avio-Ala-Cornè -Chizzola-Mori-Rovereto,3
+127,1,337,Rovereto -Mori-Chizzola-Cornè-Ala-Avio,3
 74,1,041,Operai Rit. Valsugana,3
 75,1,042,Operai Rit. Pinè (Via Nogarè),3
 76,1,043,Operai And. Pinè (Via Pergine),3
@@ -88,18 +88,18 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 58,1,442,Trento-Masetti-Borgo V.-Castello T.,3
 77,1,201,Tione-Sarche-Vezzano-Trento,3
 78,1,204,Trento-Vigo Cavedine-Riva Del Garda,3
-79,1,301,Rovereto-Calliano-Besenello-Trento,3
+79,1,301,Trento-Besenello-Calliano-Rovereto,3
 80,1,207,Ponte Arche-Campo Lomaso-Fiavè-Cavrasto-Bivedo,3
-81,1,208,Ponte Arche-S.Lorenzo In B.-Molveno,3
+81,1,208,Molveno-S.Lorenzo In B.-Ponte Arche,3
 82,1,209,Ponte Arche-Lundo,3
 83,1,211,Riva Del G.-Tenno-Fiave -Ponte Arche,3
 84,1,212,Pieve Di Bono-Praso-Daone,3
 85,1,213,Por-Castel Condino-Pieve Di Bono,3
 86,1,214,Pieve Di Bono-Storo-Bezzecca-Pregasina-Riva,3
-87,1,215,Vestone-Baitoni-Storo-Pieve Di Bono-Tione,3
+87,1,215,Tione-Pieve Di Bono-Storo-Baitoni-Vestone,3
 88,1,218,Vigo Cavedine-Masi,3
 89,1,225,Condino - Brione,3
-90,1,331,Riva-Arco-Bolognano-Mori-Rovereto-Trento,3
+90,1,331,Trento-Rovereto-Mori-Bolognano-Arco-Riva,3
 57,1,441,Castello T.-Borgo Diretta:Via Gallerie-Trento,3
 102,1,850,Piano Area Rovereto (Ritorno),3
 103,1,867,Linea 7: Nago-Torbole-Riva,3
@@ -143,7 +143,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 174,1,Tn 1,T-01 Roncafort - P.Dante - Osp.S.Chiara- Roncafort,3
 175,1,Tn 10,T-10 P.Dante - Martignano - Cognola / Montevaccino,3
 176,1,Tn 11,T-11 Piazza Dante / Roncafort - Gardolo - Spini,3
-177,1,Tn 12,T-12 Romagnano - Ravina - Via Ghiaie - P.Dante,3
+177,1,Tn 12,T-12 P.Dante - Via Ghiaie - Ravina - Romagnano,3
 178,1,Tn 13,T-13 Povo - S.Rocco - Rosmini - Piazza Dante,3
 179,1,Tn 14,T-14 P.Dante - Via Sanseverino - Belvedere Ravina,3
 180,1,Tn 17,T-17 Lavis - S.Lazzaro -  Piazza Dante,3
@@ -152,14 +152,14 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 183,1,Tn 5,T-05 Piazza Dante - P.Fiera - Povo - Oltrecastello,3
 184,1,Tn 6,T-06 Sopramonte - P.Dante - Villazzano - Grotta,3
 185,1,Tn 7,T-07 Canova - Melta - Piazza Dante - Gocciadoro,3
-186,1,Tn 8,T-08 Centochiavi - Piazza Dante - Mattarello,3
+186,1,Tn 8,T-08 Mattarello -  Piazza Dante -  Centochiavi,3
 187,1,Tn 9,T-09 P.Dante - S.Donà - Cognola - Villamontagna,3
 188,1,Tn A,T- A P.Dante - Osp.S.Chiara - Clarina - P.Dante,3
 189,1,Tn B,T- B Piazza Dante - Laste - Piazza Dante,3
 190,1,Tn NP,T-Np Navetta Parcheggi: Zuffo - M.Te Baldo - Zuffo,3
 215,1,Tn Fu,Funivia Sardagna,7
 155,1,627,Sfruz-Smarano-Coredo-Dermulo-Cles,3
-159,1,632,Fondo - Castelfondo - Revò - Cles,3
+159,1,632,Cles - Revò - Castelfondo - Fondo,3
 160,1,633,Cles - Mostizzolo - Cis,3
 203,1,091,Operai Rit. Seeber,3
 204,1,092,Operai And. Valfloriana,3
