@@ -10,7 +10,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 65,1,206,M. Terlago-Terlago-Sopramonte-Cadine-Trento,3
 66,1,230,Trento-Monte Terlago-Ranzo-Margone,3
 67,1,302,Trento -Ravina -Mattarello -Aldeno -Garniga Terme,3
-68,1,303,Trento-V.Vattaro-Carbonare-Lavarone-Luserna,3
+68,1,303,Luserna-Lavarone-Carbonare-V.Vattaro-Trento,3
 69,1,311,Rovereto-Villa-Nomi-Aldeno,3
 70,1,861,Linea 1: Riva -Varone -Arco -S.Giorgio-Brione-Riva,3
 71,1,862,Linea 2: Riva-Brione-S.Giorgio-Arco-Varone-Riva,3
@@ -31,7 +31,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 17,1,051,Operai Luxottica,3
 18,1,101,Penia-Canazei-Moena-Predazzo-Cavalese,3
 19,1,102,Cavalese - Capriana - Cembra - Trento,3
-20,1,103,Cavalese - Sover - Civezzano - Trento,3
+20,1,103,Trento - Civezzano - Sover - Cavalese,3
 21,1,105,Palu  Di Giovo-Ville- Valternigo-Verla,3
 22,1,108,P.So Oclini-P.So Lavazè-Varena-Daiano-Cavalese,3
 23,1,110,Alpe Pampeago-Cavalese,3
@@ -43,7 +43,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 29,1,119,Molina-Masi-Cavalese,3
 30,1,121,Sover-Montesover,3
 33,1,133,Valcava-Piazzo-Cembr,3
-34,1,202,Viote-Vason-Vaneze-Candriai-Sardagna-Trento,3
+34,1,202,Trento-Sardagna-Candriai-Vaneze-Vason-Viote,3
 35,1,402,Montesover - Baselga Di Pinè -Nogarè -Trento,3
 36,1,403,Trento - Pergine - Baselga Di Pinè - Montesover,3
 37,1,405,Borgo V.- Strigno - Castello Tesino,3
@@ -53,7 +53,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 43,1,415,Lochere - S.Giuliana - Barco -Levico Terme,3
 44,1,416,Levico Terme - Compet - Vetriolo Terme,3
 45,1,417,Palù -S.Orsola -Viarago -Canezza -Pergine,3
-46,1,418,Pergine-Kamauz-Frassilongo-S.Felice F.-Hacleri,3
+46,1,418,Hacleri-S.Felice F.-Frassilongo-Kamauz-Pergine,3
 47,1,422,Roncogno-Costasavina-Pergine,3
 106,2,751,Ferrovia Fs Verona - Brennero,2
 119,1,312,Rovereto-Parrocchia Di V.-Pian Delle Fugazze,3
@@ -64,7 +64,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 124,1,319,Cornè-Crosano Bivio-Besagno,3
 125,1,334,Rovereto-Ala-Sabbionara-Avio-Masi-Rovereto,3
 126,1,335,Rovereto-Ala-Masi D Avio-Avio-Rovereto,3
-127,1,337,Rovereto -Mori-Chizzola-Cornè-Ala-Avio,3
+127,1,337,Avio-Ala-Cornè -Chizzola-Mori-Rovereto,3
 74,1,041,Operai Rit. Valsugana,3
 75,1,042,Operai Rit. Pinè (Via Nogarè),3
 76,1,043,Operai And. Pinè (Via Pergine),3
@@ -79,7 +79,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 128,1,308,Rovereto-Mori-Chizzo,3
 129,1,321,Trento-Calliano-Folgaria-Lavarone,3
 130,1,328,Luserna-Monterovere-Caldonazzo-Pergine-Trento,3
-131,1,329,V.Vattaro-Bosentino-Calceranica-Pergine,3
+131,1,329,Pergine-Calceranica-Bosentino-V.Vattaro,3
 139,1,304,Avio - Masi D Avio - Sabbionara - Ala - Rovereto,3
 140,1,061,Operai Rit. Molveno,3
 239,1,Rv B,B   Baldresca - Rosmini - S.Giovanni Bosco,3
@@ -88,7 +88,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 58,1,442,Trento-Masetti-Borgo V.-Castello T.,3
 77,1,201,Tione-Sarche-Vezzano-Trento,3
 78,1,204,Trento-Vigo Cavedine-Riva Del Garda,3
-79,1,301,Trento-Besenello-Calliano-Rovereto,3
+79,1,301,Rovereto-Calliano-Besenello-Trento,3
 80,1,207,Ponte Arche-Campo Lomaso-Fiavè-Cavrasto-Bivedo,3
 81,1,208,Molveno-S.Lorenzo In B.-Ponte Arche,3
 82,1,209,Ponte Arche-Lundo,3
@@ -134,7 +134,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 101,1,620,Trento-Mezzolombardo-Campodenno-Denno-Cles,3
 105,1,210,Bivedo-Cavrasto-S.Croce-Ponte Arche,3
 113,1,032,Operai Rit. Besenello,3
-114,1,305,Saccone-Brentonico-Mori-Rovereto,3
+114,1,305,Rovereto-Mori-Brentonico-Saccone,3
 115,1,306,Lavarone-Folgaria-Calliano-Rovereto,3
 116,1,307,Rovereto-Mori-Chizzola-Cornè-Ala-Avio,3
 117,1,309,Rovereto-Serravalle-Chizzola-Cornè,3
@@ -217,10 +217,10 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 229,1,245,M.Campiglio-Tione-Storo-Baitoni-Vestone,3
 230,1,342,Raossi - S.Anna - Ometto,3
 231,1,344,Rovereto - Albaredo - Raossi,3
-232,1,853,Noriglio-Isera-Castellano,3
+232,1,853,Castellano-Isera-Noriglio,3
 233,1,854,Mori-Isera-Marco,3
 234,1,855,Marco-Nomi,3
-235,1,856,Volano-Mori,3
+235,1,856,Mori-Volano,3
 72,1,863,Linea 3 Integrata:Bolognano-Arco-Riva-Torbole-Nago,3
 237,1,857,Castellano-Villa-Marco,3
 240,1,Tn 15,T-15 Piazza Dante - Interporto - Spini Di Gardolo,3
@@ -235,14 +235,14 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 246,1,330,Centa-Levico-Pergine Valsugana,3
 260,1,Tn D,Servizio R.S.A: Porta Nuova - S.Bartolomeo,3
 1,1,104,Cavalese-Ora-Egna-Salorno-S.Michele A/A-Trento,3
-2,1,122,Fiera Di Primiero-S.Martino C.-P.Rolle-Predazzo,3
+2,1,122,Fiera Di Primiero-Predazzo,3
 3,1,401,Trento-Pergine V.-Levico T.-Borgo V.-Castello T.,3
 4,1,421,Pergine Valsugana - Susà,3
-5,1,501,Feltre-Fiera Di Primiero-S.Martino Di Castrozza,3
+5,1,501,S.Martino Di Castrozza-Fiera Di Primiero-Feltre,3
 6,1,503,Sagron-Mis-P.So Cereda-Val Canali-Fiera Di P.-Imer,3
 7,1,504,Ronco Chiesa - Ronco Fosse - Canal S.Bovo,3
 8,1,505,Caoria-Totoga-Imer-Fiera Di Primiero,3
-9,1,506,Fiera Di Primiero-Imer-Canal S.Bovo-Caoria,3
+9,1,506,Caoria-Canal S.Bovo-Imer-Fiera Di Primiero,3
 10,1,507,Caoria-Canal S.Bovo-Feltre,3
 158,1,631,Fondo - Tret,3
 192,1,Rv GS,Gite Scolastiche Rovereto,3

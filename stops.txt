@@ -3912,9 +3912,9 @@ stop_id,stop_name,stop_lat,stop_lon
 45135,Pratosaiano - Maso Saiano, 45.901080, 10.891160
 45136,Pratosaiano Noreda-Serre, 45.907850, 10.896670
 45137,Pietramurata Bv.Via Nogarone, 46.020800, 10.941770
-45138,Pietramurata Via Strada Nuova, 46.017800, 10.952310
+45138,Pietramurata Via Cavedine.54, 46.017800, 10.952310
 45139,Pietramurata Chiesa, 46.017620, 10.946920
-45140,Pietramurata Via Pianosarca, 46.016850, 10.956480
+45140,Pietramurata V.Cav./Pianosarca, 46.016850, 10.956480
 45141,Pietramurata-Scuola Elementare, 46.016990, 10.945370
 45142,Dro - Scuole Medie, 45.958630, 10.911250
 45143,Rovereto Via Magazol, 45.899820, 11.039740
